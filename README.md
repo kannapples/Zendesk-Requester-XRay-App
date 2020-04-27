@@ -2,7 +2,7 @@
 
 A small exploration of the Zendesk API.
 
-###Displays the following information about the requester in Zendesk Support:
+### Displays the following information about the requester in Zendesk Support:
 
 * the requester's name
 * any user tags applied to the requester in Zendesk Support
@@ -11,4 +11,4 @@ A small exploration of the Zendesk API.
 
 
 ### Screenshot(s):
-[put your screenshots down here.]
+![image](https://user-images.githubusercontent.com/46336564/80427472-6eed8100-88ad-11ea-8156-ebb76a4bf164.png)
